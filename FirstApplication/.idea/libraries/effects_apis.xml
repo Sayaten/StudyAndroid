@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="effects_apis">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/add-ons/addon-google_apis-google-21/docs/effects_apis" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/add-ons/addon-google_apis-google-21/docs/maps_apis" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/add-ons/addon-google_apis-google-22/docs/effects_apis" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/add-ons/addon-google_apis-google-22/docs/maps_apis" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/add-ons/addon-google_apis-google-23/docs/effects_apis" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/add-ons/addon-google_apis-google-23/docs/maps_apis" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/sources/android-21" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/sources/android-22" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/sources/android-23" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/sources/android-24" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/tools/apps/SdkController/src" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/tools/proguard/examples/annotations/examples" />
+      <root url="file://D:/Users/Yuri/AppData/Local/Android/android-sdk/tools/proguard/examples/annotations/src" />
+    </SOURCES>
+  </library>
+</component>
